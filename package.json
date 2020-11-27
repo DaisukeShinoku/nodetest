@@ -1,0 +1,14 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/bigquery": "2.0.6",
+    "@google-cloud/storage": "2.4.2",
+    "aws-sdk": "2.416.0",
+    "array-foreach-async": "1.0.1",
+    "date-utils": "^1.2.21"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^1.7.1"
+  }
+}
